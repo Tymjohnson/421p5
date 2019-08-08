@@ -3,7 +3,7 @@ VM of Linux (Any distro, I used RedHat). <br />
 Python 3 installed <br />
 Scapy installed <br />
 Wireshark installed on Main OS <br />
-TO RUN <br /> (
+TO RUN <br /> 
   Have a VM running Linux and a primary OS up and running<br />
   Ensure GUI.py and dnsSpoof.py are in the same directory on the VM<br />
   Execute GUI.py using "python GUI.py"
